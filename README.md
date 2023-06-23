@@ -1,5 +1,5 @@
-# super-doper-vi
-```vi < vim < neovim < super-doper-vi```
+# super-duper-vi
+```vi < vim < neovim < super-duper-vi```
 
 ## Ideas
 - [ ] GUI Interface (useless to do with ascii in console, because neovim is perfect)
